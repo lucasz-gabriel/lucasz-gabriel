@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou Lucas Gabriel
+# 👋 Olá! Me chamo Lucas Roque
 
-🎓 Estudante de **Engenharia de Software**
-💻 Desenvolvedor com foco em **Front-end, Back-end e Segurança da Informação**
+🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor com foco em Front-end, Back-end e Segurança da Informação
 
 ---
 
