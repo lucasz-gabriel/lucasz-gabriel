@@ -24,10 +24,8 @@
 
 ## 🚀 Projetos
 
-🔹 **Projetos de desenvolvimento web**
-🔹 **Projetos em Python e Java**
-🔹 **Projetos relacionados a Inteligência Artificial**
-🔹 **Projetos acadêmicos de Engenharia de Software**
+🔹 **[Projetos de desenvolvimento Full-Stack](https://github.com/lucasz-gabriel/Lista-de-tarefas-html-css-js-fastAPI)**
+
 
 ---
 
