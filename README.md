@@ -28,7 +28,7 @@
 
 ## 🚀 Projetos
 
-🔹 **[Tarefa!](https://github.com/lucasz-gabriel/Lista-de-tarefas-html-css-js-fastAPI)**
+🔹 **[Tarefa!](https://github.com/lucasz-gabriel/Lista-de-tarefas-html-css-js-fastAPI)**\
 🔹 **[Tracker]( https://github.com/lucasz-gabriel/Tracker)**      
 
 
