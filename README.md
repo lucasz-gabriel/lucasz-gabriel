@@ -1,8 +1,8 @@
 #  Lucas Roque - Software Engineer
 
-```python
-print("Hello World")
-```
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=print(%22Hello+World%22);print(%22Ol%C3%A1+Mundo%22);print(%22Lucas+Roque%22)" alt="Typing SVG" />
+</a>
 
 🎓 Estudante de Engenharia de Software
 💻 Desenvolvedor com foco em Front-end, Back-end e Segurança da Informação
