@@ -1,4 +1,8 @@
-# 👋 Olá! Me chamo Lucas Roque
+#  Lucas Roque - Software Engineer
+
+```python
+print("Hello World")
+```
 
 🎓 Estudante de Engenharia de Software
 💻 Desenvolvedor com foco em Front-end, Back-end e Segurança da Informação
